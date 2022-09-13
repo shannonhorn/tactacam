@@ -1,15 +1,16 @@
-ISSUES
-- filter update does not always trigger 
+# ISSUES
+- filter updates do not always trigger
 - navigating back to home clears state
 
-Could improve
+# COULD IMPROVE
 - Styling
-- Add Context
+- Add Context - would resolve state clear issue above
 - Maybe Memo?
 - Testing
 - Documentation
 
-Using next
-- performance
-- security
-- SEO
+# RECOMMENDATIONS
+- Create using NextJS
+  - performance
+  - security
+  - SEO
