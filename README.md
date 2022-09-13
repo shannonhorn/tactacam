@@ -1,8 +1,11 @@
+
 # ISSUES
+
 - filter updates do not always trigger
 - navigating back to home clears state
 
 # COULD IMPROVE
+
 - Styling
 - Add Context - would resolve state clear issue above
 - Maybe Memo?
@@ -10,7 +13,9 @@
 - Documentation
 
 # RECOMMENDATIONS
+
 - Create using NextJS
   - performance
+  - automatic image compression and resizing
   - security
   - SEO
